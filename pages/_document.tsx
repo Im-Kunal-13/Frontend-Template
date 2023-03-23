@@ -19,6 +19,10 @@ export default class MyDocument extends Document {
                         href="https://fonts.googleapis.com/css2?family=DynaPuff&family=Kaushan+Script&display=swap"
                         rel="stylesheet"
                     />
+                    <link
+                        rel="shortcut icon"
+                        href="/images/k-logo.png"
+                    />
                 </Head>
                 <body className="main">
                     <Main />
